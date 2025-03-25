@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Sanal ortam ve büyük dosyalar
+env/
+venv/
+*.pyd
+*.dll
+*.so
+*.lib
+
