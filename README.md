@@ -32,6 +32,8 @@ bash
 Kopyala
 Düzenle
 pip install -r requirements.txt
-Modeli eğitmek için train_model.py dosyasını çalıştırın.
+Modeli eğitmek için yf.py dosyasını çalıştırın.
 
-Tahmin yapmak için predict.py dosyasını kullanabilirsiniz.
+Tahmin yapmak için runner.py dosyasını kullanabilirsiniz.
+
+Arayüze ulaşmak için ise prediction.py dosaysını çalıştırabilirsiniz.
